@@ -82,3 +82,11 @@ https://github.com/saebyeok91/SpringHW
 ```make
 Spring Boot + Vue + MySQL(JPA)
 ```
+
+##
+
+https://github.com/zeeeeeno/personal_project
+
+```make
+Spring Boot + Vue + MySQL(JPA) + Python
+```
