@@ -66,3 +66,11 @@ https://github.com/jumib/mini_project
 ```make
 Spring Boot + Vue + MySQL(JPA)
 ```
+
+##
+
+https://github.com/byungJ/minproject
+
+```make
+Spring Boot + Vue + MySQL(JPA)
+```
