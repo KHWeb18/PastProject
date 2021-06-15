@@ -58,3 +58,11 @@ https://github.com/joalvis777/ImagePuzzle
 ```make
 Spring Boot + Vue + MySQL(JPA)
 ```
+
+## 
+
+https://github.com/jumib/mini_project
+
+```make
+Spring Boot + Vue + MySQL(JPA)
+```
