@@ -96,8 +96,8 @@ Spring Boot + Vue + MySQL(JPA)
 
 ##
 
-https://github.com/zeeeeeno/personal_project
+https://github.com/rainyday0613/Vue-Project.git
 
 ```make
-Spring Boot + Vue + MySQL(JPA) + Python
+Spring Boot + Vue + MySQL(JPA)
 ```
