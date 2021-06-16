@@ -101,3 +101,11 @@ https://github.com/rainyday0613/Vue-Project.git
 ```make
 Spring Boot + Vue + MySQL(JPA)
 ```
+
+##
+
+https://github.com/soominok/mini-first-projcet
+
+```make
+Spring Boot + Vue + MySQL(JPA) + Python
+```
